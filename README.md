@@ -56,24 +56,23 @@ Já colaborei com empresas nacionais e multinacionais, sempre buscando inovaçã
 
 ## 📌 Projetos em destaque
 
-- **[em breve]** API de Agendamento Médico em Node.js  
-- **[em breve]** Dashboard de Análise de Indicadores Econômicos  
-- **[em breve]** Testes Automatizados com Cypress e JMeter em projeto real
-
-*(atualize este espaço fixando os melhores repositórios do seu perfil)*
+- **[Demonstração de Teste]** Repositório com estrutura modular e foco para automação de fluxos de teste via APIs
+  - https://github.com/joaovmvmendes/apis-test-demonstration   
+- **[Demonstração de ETL]** Dashboard de Análise de Indicadores Econômicos (foco no processo de ETL)
+  - https://github.com/joaovmvmendes/etl-indicadores-economicos 
 
 ---
 
 ## 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=default)](https://github.com/SEUUSUARIO)  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=default)](https://github.com/SEUUSUARIO)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=default)](https://github.com/joaovmvmendes)  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=default)](https://github.com/joaovmvmendes)
 
 ---
 
 ## 📬 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/SEULINKEDIN)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/joaovmvmendes)  
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jvmax98@gmail.com)
 
 ---
